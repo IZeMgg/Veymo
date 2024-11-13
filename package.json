@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-project",
+  "version": "1.0.0",
+  "description": "Just a test to see how this lib works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ziad Bloukid",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
